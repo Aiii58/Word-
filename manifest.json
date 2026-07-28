@@ -1,0 +1,12 @@
+{
+  "name": "Kelime Pratik",
+  "short_name": "Kelime Pratik",
+  "description": "İngilizce-Türkçe kelime çalışma ve kart oyunu",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1526",
+  "theme_color": "#0d1526",
+  "lang": "tr"
+}
